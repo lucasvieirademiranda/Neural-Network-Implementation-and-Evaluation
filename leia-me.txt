@@ -1,0 +1,12 @@
+Fazer o download do arquivo fashion-mnist-data.zip na url (moodle não permite arquivos maiores que 10MB): 
+https://www.dropbox.com/s/qawunrav8ri0sp4/fashion-mnist-dataset.zip
+
+Passos:
+
+Extrair o arquivo fashion-mnist-data.zip nesta mesma pasta;
+
+Os notebooks numerados de 01 a 03 foram utilizados para desenvolver e analisar os algoritmos;
+
+Os notebooks numerados de 04 a 06 foram utilizados para testar os modelos na etapa de seleção;
+
+O notebook de número 07 foi utilizado para treinar o modelo final e analisá-lo.
